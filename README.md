@@ -3,5 +3,3 @@
 
  - [Virtualized Active Directory Home Lab](https://github.com/lanejnelson/AD-Homelab)
 
-
-<h2> 🤳 Connect with me:</h2>
